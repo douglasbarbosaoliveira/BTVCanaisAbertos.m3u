@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTGRP:Nacional
+
 
 #EXTINF:-1 tvg-id="band" tvg-name="Band (Rede)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Band_logo_2013.svg" group-title="Brasil, Nacional",Band (Rede)
 https://hqf6tcxuhk.singularcdn.net.br/live/019498af-1fdf-7df5-86bd-e4a6f588d6a7/s1/playlist_nova-a.m3u8
@@ -8,7 +8,7 @@ https://hqf6tcxuhk.singularcdn.net.br/live/019498af-1fdf-7df5-86bd-e4a6f588d6a7/
 #EXTINF:-1 tvg-id="redetv" tvg-name="RedeTV!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/RedeTV%21_logo.svg" group-title="Brasil, Nacional",RedeTV!
 https://www.dailymotion.com/cdn/live/video/x8xps0s.m3u8?sec=QvqAF891wJjTpgTiH5PLfpFUdsKa9jgcQEpOQMeVXCBJNK5DjPWrpBLk7lWn4fl5uOqc-KB2SNyH_eJg2j5w5Q&dmTs=427665&dmV1st=7a58468d-b050-65be-818f-960d802ff212
 
-#EXTGRP:Nordeste - Fortaleza
+
 
 #EXTINF:-1 tvg-id="canalfdr" tvg-name="Canal FDR - Fortaleza - CE" tvg-logo="https://canalfdr.com.br/wp-content/uploads/2021/06/canal_fdr_logo.png" group-title="Brasil, Nordeste",Canal FDR - Fortaleza - CE
 https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/index.m3u8
@@ -19,12 +19,11 @@ https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamo
 #EXTINF:-1 tvg-id="tvuniao" tvg-name="TV União - Fortaleza - CE" tvg-logo="https://tvuniao.com.br/wp-content/themes/tvuniao/images/logo.png" group-title="Brasil, Nordeste",TV União - Fortaleza - CE
 https://video09.logicahost.com.br/tvuniao/tvuniao/playlist.m3u8
 
-#EXTGRP:Nordeste - Juazeiro do Norte
+
 
 #EXTINF:-1 tvg-id="tvpadrecicero" tvg-name="TV Padre Cícero - Juazeiro do Norte - CE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TV_Padre_C%C3%ADcero_Logo.png" group-title="Brasil, Nordeste",TV Padre Cícero - Juazeiro do Norte - CE
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 
-#EXTGRP:Nordeste - Teresina
 
 #EXTINF:-1 tvg-id="tvantena10" tvg-name="TV Antena 10 - Teresina - PI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/TV_Antena_10_Piauí_logo.png" group-title="Brasil, Nordeste",TV Antena 10 - Teresina - PI
 https://video01.logicahost.com.br/a10maisadap/smil:transcoder.smil/chunklist_w636757987_b1396000.m3u8
